@@ -81,7 +81,6 @@ int main()
     cin>>x>>y;
     cout<<"HEIGHT"<<","<<"WIDTH"<<"of finish one"<<endl;
     cin>>z>>a;
-    cout<<"for test git"<<endl:
     int n = sizeof(m) / sizeof(m[0]);
     printPath(m, n,x,y,z,a); 
   
